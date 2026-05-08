@@ -1,6 +1,6 @@
-# Bridge the Gap — Dublin Airbnb market analysis
+# Bridge the Gap — Dublin Airbnb Market Analysis
 
-**UCI Atlantis Datathon 2024** | Team project
+**UCI Atlantis Datathon 2024 hosted by Data@UCI** | Team project
 
 The short-term vacation rental market has grown rapidly in recent years, but supply and demand remain mismatched in many markets. We analyzed two weeks of Dublin Airbnb booking data to characterize the market, identify what drives successful transactions, and provide actionable insights for hosts and the platform.
 
